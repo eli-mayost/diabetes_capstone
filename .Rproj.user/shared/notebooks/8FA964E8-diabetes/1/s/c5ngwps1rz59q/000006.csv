@@ -1,0 +1,4 @@
+"0","data %>% "
+"0","  dplyr::select(Pregnancies, Glucose, BloodPressure, SkinThickness) %>% "
+"0","  summary() %>% "
+"0","  knitr::kable()"

@@ -1,0 +1,5 @@
+"0","data %>% filter_at(vars(BMI, SkinThickness, Age, BloodPressure), any_vars(. == 0)) %>% nrow()"
+"1","[1]"
+"1"," 0"
+"1","
+"

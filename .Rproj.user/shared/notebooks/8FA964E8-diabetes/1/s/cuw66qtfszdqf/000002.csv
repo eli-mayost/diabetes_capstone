@@ -1,0 +1,5 @@
+"0","data %>% dplyr::filter_at(vars(BMI, SkinThickness, BloodPressure, Glucose), any_vars(. == 0)) %>% nrow()"
+"1","[1]"
+"1"," 236"
+"1","
+"

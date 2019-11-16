@@ -1,0 +1,4 @@
+"0","ind <- caret::createDataPartition(data$Outcome, times = 1, p = 0.3, list = F)"
+"0",""
+"0","train_set <- data %>% dplyr::slice(-ind)"
+"0","test_set <- data %>% dplyr::slice(ind)"

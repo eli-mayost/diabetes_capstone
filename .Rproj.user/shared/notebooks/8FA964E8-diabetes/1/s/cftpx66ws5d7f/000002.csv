@@ -1,0 +1,4 @@
+"2","r error 4 (R code execution error)"
+"2","Error in unlist(strsplit(code, ""\n"", fixed = TRUE))[[1]] : 
+  subscript out of bounds
+"

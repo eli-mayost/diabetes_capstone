@@ -1,0 +1,8 @@
+"0","glue(""The train set has {train_set %>% nrow()} observations."")"
+"1","The train set has 537 observations."
+"1","
+"
+"0","glue(""The test set has {test_set %>% nrow()} observations."")"
+"1","The test set has 231 observations."
+"1","
+"

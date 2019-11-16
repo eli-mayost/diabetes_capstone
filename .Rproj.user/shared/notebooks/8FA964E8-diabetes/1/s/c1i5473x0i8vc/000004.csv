@@ -1,0 +1,5 @@
+"0","data %>% "
+"0","  dplyr::mutate(Outcome = as.integer(Outcome)) %>% "
+"0","  cor %>% "
+"0","  round(digits = 2) %>% "
+"0","  knitr::kable()"

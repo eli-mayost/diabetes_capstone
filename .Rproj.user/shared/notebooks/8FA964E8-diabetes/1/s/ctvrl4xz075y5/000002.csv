@@ -1,0 +1,4 @@
+"0","train_set <- data %>% dplyr::slice(-ind)
+"
+"2","Error in data %>% dplyr::slice(-ind) : could not find function ""%>%""
+"

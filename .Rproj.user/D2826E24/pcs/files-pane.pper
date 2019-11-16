@@ -1,0 +1,9 @@
+{
+    "path" : "~/apps/r_apps/diabetes",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

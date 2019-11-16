@@ -1,0 +1,8 @@
+"0","data %>% "
+"0","  cor %>% "
+"0","  ggcorrplot(type = ""lower"","
+"0","             lab = T, "
+"0","             colors = c(""#6D9EC1"", ""white"", ""#E46726""), "
+"0","             outline.color = ""darkgrey"","
+"0","             tl.cex = 10,"
+"0","             legend.title = ""correlation"")"
